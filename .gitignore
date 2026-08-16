@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+models/*.pkl
+models/*.joblib
+reports/*.pdf
+reports/*.html
+reports/*.csv
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/
+
+# Streamlit temp
+*.log
+
